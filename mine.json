@@ -47,6 +47,10 @@
         {
             "url": "https://www.curseforge.com/api/v1/mods/248787/files/5922047/download",
             "filename": "lionapi.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/6418456/download",
+            "filename": "curios.jar"
         }
     ]
 }
