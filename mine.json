@@ -1,0 +1,17 @@
+{
+    "mods": [
+        {
+            "url": "https://example.com/mod1.jar",
+            "filename": "mod1.jar"
+        },
+        {
+            "url": "https://example.com/mod2.jar",
+            "filename": "mod2.jar"
+        },
+        {
+            "url": "https://example.com/mod3.jar",
+            "filename": "mod3.jar"
+        }
+    ]
+}
+
