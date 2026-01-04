@@ -35,6 +35,18 @@
         {
             "url": "https://www.curseforge.com/api/v1/mods/248787/files/5286459/download",
             "filename": "enemy.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7402037/download",
+            "filename": "corelib.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7025129/download",
+            "filename": "geckoapi.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/5922047/download",
+            "filename": "lionapi.jar"
         }
     ]
 }
