@@ -1,12 +1,40 @@
 {
     "mods": [
         {
-            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7361406/download",
-            "filename": "mod1.jar"
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7391695/download",
+            "filename": "jei.jar"
         },
         {
-            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7316076/download",
-            "filename": "mod22.jar"
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/4770828/download",
+            "filename": "appleskin.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7414216/download",
+            "filename": "bags.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/4600191/download",
+            "filename": "cosmect.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7401617/download",
+            "filename": "gun.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/6586086/download",
+            "filename": "mowzie.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/6906993/download",
+            "filename": "ender.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/6776766/download",
+            "filename": "legendary.jar"
+        },
+        {
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/5286459/download",
+            "filename": "enemy.jar"
         }
     ]
 }
