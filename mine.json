@@ -1,15 +1,15 @@
 {
     "mods": [
         {
-            "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/7316076",
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7361406/download",
             "filename": "mod1.jar"
         },
         {
-            "url": "https://example.com/mod2.jar",
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7361406/download",
             "filename": "mod2.jar"
         },
         {
-            "url": "https://example.com/mod3.jar",
+            "url": "https://www.curseforge.com/api/v1/mods/248787/files/7361406/download",
             "filename": "mod3.jar"
         }
     ]
